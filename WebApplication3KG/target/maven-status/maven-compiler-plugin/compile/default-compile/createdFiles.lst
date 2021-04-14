@@ -1,0 +1,6 @@
+com\mycompany\webapplication3kg\MyServlet.class
+com\mycompany\webapplication3kg\Data\ApplicationData.class
+com\mycompany\webapplication3kg\Data\T_Dane.class
+com\mycompany\webapplication3kg\UtilServlet.class
+com\mycompany\webapplication3kg\Data\User.class
+com\mycompany\webapplication3kg\Data\ApplicationLogic.class
