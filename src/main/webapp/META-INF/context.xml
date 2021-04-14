@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Context path="/WebApplication3KG">
+    <Resource name="jdbc/bazaTestowaMSSQL" auth="Container"
+              type="javax.sql.DataSource"
+              maxActive="100" maxIdle="30" maxWait="10000"
+              username="tomcatuser" password="tomcat"
+              driverClassName="com.microsoft.sqlserver.jdbc.SQLServerDriver"
+              url="jdbc:sqlserver://155.158.112.31:1433;databaseName=tomcat"/>
+</Context>
